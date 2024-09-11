@@ -3,6 +3,7 @@ profepa <- read.csv(prof_url, encoding = "latin1")
 head(profepa)
 
 summary(profepa)
+j
 
 
 mean(profepa$Inspección)
