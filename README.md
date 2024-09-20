@@ -10,3 +10,5 @@ Material del curso de Posgrado de Experimentación y Métodos Estadísticos
 + Semana 4: Clase sobre base de datos de Profepa
 + Semana 5: Clase y laboartorio con prueba de T
 + Semana 6: Clase sobre análisis con pruebas de T y varianza
++ Semana 7: Clase sobre correlación y análisis de regresión
++ Semana 8: Examen
